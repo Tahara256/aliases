@@ -1,0 +1,14 @@
+[alias]
+	cl = clone
+	st = status
+	ad = add
+	cm = commit
+	co = checkout
+	br = branch
+	lg = log
+	gr = lg --graph --oneline --all
+	lgn = lg --name-only --oneline
+	addi = ad -i
+	adi = addi
+	diffs = diff --staged
+	up = fetch --all --prune
