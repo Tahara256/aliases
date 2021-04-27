@@ -1,3 +1,4 @@
+# cd
 alias d='cd ~/Desktop'
 alias repo='cd ~/Desktop/repositories'
 alias doc='cd ~/Desktop/documents'
