@@ -1,3 +1,10 @@
+alias d='cd ~/Desktop'
+alias repo='cd ~/Desktop/repositories'
+alias doc='cd ~/Desktop/documents'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
 # Git
 alias g='git'
 alias cl='g cl'
