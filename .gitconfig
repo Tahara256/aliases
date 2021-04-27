@@ -8,7 +8,6 @@
 	lg = log
 	gr = lg --graph --oneline --all
 	lgn = lg --name-only --oneline
-	addi = ad -i
-	adi = addi
+	adi = ad -i
 	diffs = diff --staged
 	up = fetch --all --prune
