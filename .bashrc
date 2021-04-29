@@ -6,6 +6,10 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 
+# ls
+alias la='ls -aF'
+alias ll='ls -alF'
+
 # Git
 alias g='git'
 alias cl='g cl'
